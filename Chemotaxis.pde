@@ -13,7 +13,7 @@ void setup()
 }   
 void draw()   
 {    
-  background(0, 0, 0, 10);
+  background(0, 0, 0);
   stroke(255);
   noFill();
   rectMode(CENTER);
